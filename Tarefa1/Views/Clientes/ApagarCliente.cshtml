@@ -1,0 +1,26 @@
+﻿@model Tarefa1.Models.Cliente
+
+<h1>Apagar Cliente</h1>
+
+<form method="post">
+    <label class="form-label mt-4" asp-for="Nome"></label>
+    <input style="background-color: lightgray" class="form-control text-muted" asp-for="Nome" readonly />
+    <p class="text-danger"><span asp-validation-for="Nome"></span></p>
+
+    <label class="form-label mt-4" asp-for="Email"></label>
+    <input style="background-color: lightgray" class="form-control text-muted" asp-for="Email" readonly />
+    <p class="text-danger"><span asp-validation-for="Email"></span></p>
+
+    <label class="form-label mt-4" asp-for="Telefone"></label>
+    <input style="background-color: lightgray" class="form-control text-muted" asp-for="Telefone" readonly />
+    <p class="text-danger"><span asp-validation-for="Telefone"></span></p>
+
+    <div class="pt-3">
+        <button class="btn btn-outline-danger" type="submit">Apagar</button>
+        <a class="btn btn-outline-dark" asp-controller="Clientes" asp-action="Index">Voltar</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

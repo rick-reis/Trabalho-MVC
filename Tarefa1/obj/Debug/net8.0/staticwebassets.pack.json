@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Images\\Casa.jpg"
     },
     {
+      "Id": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\wwwroot\\Images\\MainPage.png",
+      "PackagePath": "staticwebassets\\Images\\MainPage.png"
+    },
+    {
       "Id": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -151,6 +155,10 @@
     {
       "Id": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrapSk.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrapSk.css"
     },
     {
       "Id": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",

@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|c:\\users\\main\\source\\repos\\tarefa mvc - ricardo reis\\tarefa1\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|solutionrelative:tarefa1\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|c:\\users\\main\\source\\repos\\tarefa mvc - ricardo reis\\tarefa1\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|solutionrelative:tarefa1\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|c:\\users\\main\\source\\repos\\tarefa mvc - ricardo reis\\tarefa1\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|solutionrelative:tarefa1\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|c:\\users\\main\\source\\repos\\tarefa mvc - ricardo reis\\tarefa1\\views\\home\\contatosuteis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|solutionrelative:tarefa1\\views\\home\\contatosuteis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|c:\\users\\main\\source\\repos\\tarefa mvc - ricardo reis\\tarefa1\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|solutionrelative:tarefa1\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|c:\\users\\main\\source\\repos\\tarefa mvc - ricardo reis\\tarefa1\\migrations\\20250408113801_criarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|solutionrelative:tarefa1\\migrations\\20250408113801_criarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|c:\\users\\main\\source\\repos\\tarefa mvc - ricardo reis\\tarefa1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|solutionrelative:tarefa1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|c:\\users\\main\\source\\repos\\tarefa mvc - ricardo reis\\tarefa1\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{359A4C6C-3579-4064-90CC-E00E0E97B073}|Tarefa1\\Tarefa1.csproj|solutionrelative:tarefa1\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,79 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Views\\Produtos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Tarefa1\\Views\\Produtos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Views\\Produtos\\Index.cshtml",
-              "RelativeToolTip": "Tarefa1\\Views\\Produtos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T12:43:42.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Tarefa1\\Views\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "Tarefa1\\Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T12:42:26.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContatosUteis.cshtml",
-              "DocumentMoniker": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Views\\Home\\ContatosUteis.cshtml",
-              "RelativeDocumentMoniker": "Tarefa1\\Views\\Home\\ContatosUteis.cshtml",
-              "ToolTip": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Views\\Home\\ContatosUteis.cshtml",
-              "RelativeToolTip": "Tarefa1\\Views\\Home\\ContatosUteis.cshtml",
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "Tarefa1\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeToolTip": "Tarefa1\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T12:42:21.621Z",
+              "WhenOpened": "2025-04-17T20:38:36.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250408113801_CriarClientes.cs",
-              "DocumentMoniker": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Migrations\\20250408113801_CriarClientes.cs",
-              "RelativeDocumentMoniker": "Tarefa1\\Migrations\\20250408113801_CriarClientes.cs",
-              "ToolTip": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Migrations\\20250408113801_CriarClientes.cs",
-              "RelativeToolTip": "Tarefa1\\Migrations\\20250408113801_CriarClientes.cs",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tarefa1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Tarefa1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T11:38:01.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Tarefa1\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Tarefa1\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:47:23.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProdutosController.cs",
-              "DocumentMoniker": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Controllers\\ProdutosController.cs",
-              "RelativeDocumentMoniker": "Tarefa1\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\Users\\MAIN\\source\\repos\\Tarefa MVC - Ricardo Reis\\Tarefa1\\Controllers\\ProdutosController.cs",
-              "RelativeToolTip": "Tarefa1\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:39:43.325Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:38:23.256Z",
               "EditorCaption": ""
             }
           ]

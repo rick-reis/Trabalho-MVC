@@ -5,13 +5,19 @@
     ViewData["Title"] = "Lista de Produtos";
 }
 
-<h1>Lista de Produtos</h1>
+<div class="container p-3">
+    <div><h1><i class="bi bi-cart"></i>  Lista de Produtos</h1></div>
+    <div class="text-end">
+        <a class="btn btn-success" asp-controller="Produtos" asp-action="AdicionarProduto"><i class="bi bi-patch-plus-fill"></i>  Novo Produto</a>
+    </div>
+</div>
 
 <table class="table table-hover table-stripped">
     <tr>
         <th>Id</th>
         <th>Nome Produto</th>
         <th>Preço</th>
+		<th>Ações</th>
     </tr>
 
 
@@ -21,6 +27,9 @@
             <td>@dados.Id</td>
             <td>@dados.Nome</td>
             <td>@dados.Preco</td>
+            <td> <a class="btn btn-warning" asp-controller="Produtos" asp-action="EditarProduto" asp-route-id="@dados.Id"><i class="bi bi-pencil"></i>  Editar</a>
+                 <a class="btn btn-danger" asp-controller="Produtos" asp-action="ApagarProduto" asp-route-id="@dados.Id"><i class="bi bi-eraser"></i>  Apagar</a>
+                 </td>
         </tr>
     }
 </table>

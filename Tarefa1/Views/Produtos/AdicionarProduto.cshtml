@@ -1,0 +1,25 @@
+﻿@model Produto
+
+
+<h1>Adicionar Produtos</h1>
+
+<form method="post">
+    <label class="form-label mt-4" asp-for="Nome"></label>
+    <input class="form-control" asp-for="Nome" />
+    <p class="text-danger"><span asp-validation-for="Nome"></span></p>
+
+    <label class="form-label mt-4" asp-for="Preco"></label>
+    <input class="form-control" asp-for="Preco" />
+    <p class="text-danger"><span asp-validation-for="Preco"></span></p>
+
+    <div class="pt-3">
+        <button class="btn btn-outline-success" type="submit">Criar</button>
+        <a class="btn btn-outline-dark" asp-controller="Produtos" asp-action="Index">Voltar</a>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
